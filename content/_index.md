@@ -1,6 +1,7 @@
 ---
 title: go-graphql
 ---
+
 **GraphQL schema tooling for Go: parse SDL into an AST, index and compose schemas, turn introspection responses into SDL, and normalize operations by lifting inline literals into variables.**
 
 - **Source:** [gomatic/go-graphql](https://github.com/gomatic/go-graphql)
