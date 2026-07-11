@@ -11,7 +11,7 @@ The module is layered. The root `graphql` package parses SDL text into a [gqlpar
 
 ## Install
 
-```
+```sh
 go get github.com/gomatic/go-graphql
 ```
 
